@@ -5,7 +5,6 @@ import os, sys, time, types, subprocess, signal
 
 import dbus
 
-### hello
 ### ~bluezutils.py
 
 iface_base = 'org.bluez'
